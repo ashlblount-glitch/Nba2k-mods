@@ -1,0 +1,17 @@
+{
+  "id": "apex27_home_whites",
+  "name": "Apex 27 Home Whites",
+  "brand": "Custom",
+  "regions": {
+    "upper":   { "color": "#f7f7f7", "material": "leather" },
+    "toe":     { "color": "#f7f7f7", "material": "patent" },
+    "heel":    { "color": "#e8e8e8", "material": "leather" },
+    "collar":  { "color": "#d9d9d9", "material": "suede" },
+    "tongue":  { "color": "#f7f7f7", "material": "mesh" },
+    "laces":   { "color": "#ffffff", "material": "knit" },
+    "midsole": { "color": "#ffffff", "material": "foam" },
+    "outsole": { "color": "#c8102e", "material": "rubber" },
+    "accent":  { "color": "#c8102e", "material": "leather" },
+    "logo":    { "color": "#c0c0c0", "material": "metallic" }
+  }
+}

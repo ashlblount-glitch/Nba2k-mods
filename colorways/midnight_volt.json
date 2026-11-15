@@ -1,0 +1,17 @@
+{
+  "id": "apex27_midnight_volt",
+  "name": "Apex 27 Midnight Volt",
+  "brand": "Custom",
+  "regions": {
+    "upper":   { "color": "#151a24", "material": "knit" },
+    "toe":     { "color": "#151a24", "material": "mesh" },
+    "heel":    { "color": "#c6ff00", "material": "leather" },
+    "collar":  { "color": "#0b0d12", "material": "suede" },
+    "tongue":  { "color": "#151a24", "material": "mesh" },
+    "laces":   { "color": "#c6ff00", "material": "knit" },
+    "midsole": { "color": "#f2f2f2", "material": "foam" },
+    "outsole": { "color": "#0b0d12", "material": "rubber" },
+    "accent":  { "color": "#c6ff00", "material": "patent" },
+    "logo":    { "color": "#ffffff", "material": "metallic" }
+  }
+}
